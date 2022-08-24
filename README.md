@@ -8,4 +8,4 @@ position the following based on a mock-up:
 - Password
 - Forgot Password
 
-Reacted the sign in page with the following and added the logo.
+Recreated the sign in page with the following and added the logo.
