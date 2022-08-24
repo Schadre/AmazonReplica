@@ -1,6 +1,6 @@
 Amazon Replica
 
-Using the skills I've praticed in Coding Temple Bootcamp, my task was to
+Using the skills I've praticed at Coding Temple Bootcamp, my task was to
 position the following based on a mock-up:
 
 - Sign In
